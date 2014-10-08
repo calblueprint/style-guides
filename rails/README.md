@@ -629,6 +629,18 @@ your application.
   fear of breaking things. Because our project timelines are relatively short,
   we prefer feature tests over unit tests. Every major feature of the app
   should be tested for functionality.
+  
+* <a name="feature-tests"></a>
+  Do write feature tests
+<sup>[[link](#feature-tests)]</sup>
+
+* <a name="unit-tests"></a>
+  Write unit tests for service objects and more complex model methods.
+<sup>[[link](#unit-tests)]</sup>
+
+* <a name="no-controller-helper-tests"></a>
+  Don't write tests for controller and helpers.
+<sup>[[link](#no-controller-helper-tests)]</sup>
 
 ## Mailers
 
