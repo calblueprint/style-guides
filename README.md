@@ -1,4 +1,7 @@
 Style Guides
 ============
 
-Blueprint's style guides for Rails, Django, iOS, and Android.
+- [Rails](rails/README.md)
+- [Django](django/README.md)
+- [iOS](iOS/README.md)
+- [Andriod](andriod/README.md)
