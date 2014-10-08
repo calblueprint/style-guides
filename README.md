@@ -9,8 +9,8 @@ Currently only the Rails style guide is written.
 
 - [Rails](rails/README.md)
 - [Django](django/README.md)
-- [iOS](iOS/README.md)
-- [Andriod](andriod/README.md)
+- [iOS](ios/README.md)
+- [Android](android/README.md)
 
 # Contributing
 
