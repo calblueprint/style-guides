@@ -599,6 +599,10 @@ your application.
   Reserve `app/assets` for custom stylesheets, javascripts, or images.
 <sup>[[link](#reserve-app-assets)]</sup>
 
+* <a name="delete-empty-assets"></a>
+  Delete empty generated assets and helpers.
+<sup>[[link](#delete-empty-assets)]</sup>
+
 * <a name="lib-assets"></a>
   Use `lib/assets` for your own libraries that don’t really fit into the
   scope of the application.
