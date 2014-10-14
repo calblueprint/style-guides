@@ -630,6 +630,10 @@ your application.
   we prefer feature tests over unit tests. Every major feature of the app
   should be tested for functionality.
   
+* <a name="delete-empty-tests"></a>
+  Delete empty generated tests.
+<sup>[[link](#delete-empty-tests)]</sup>
+  
 * <a name="feature-tests"></a>
   Do write feature tests
 <sup>[[link](#feature-tests)]</sup>
